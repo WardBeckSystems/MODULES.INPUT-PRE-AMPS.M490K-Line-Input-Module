@@ -1,0 +1,151 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module.pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/0964088ad78ad825-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.2, 335.3, 429.6],
+ "outlines": {
+  "line": {"rings": 602, "straight": {"n": 6422, "mm": 12747.5}, "curved": {"n": 1538, "mm": 2149.6}},
+  "text": {"rings": 262, "straight": {"n": 1725, "mm": 1618.3}, "curved": {"n": 701, "mm": 954.5}},
+  "tb": {"rings": 25, "straight": {"n": 234, "mm": 302.4}, "curved": {"n": 72, "mm": 98.0}}
+ },
+ "circles": [
+  {"c": [13.2, 361.3], "r": 4.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [14.0, 299.5], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [6.5, 29.5], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [148.4, 362.9, 150.5, 365.1], "w": 2.1, "h": 2.2, "from": "ring"},
+  {"mm": [8.2, 326.9, 14.7, 343.3], "w": 6.5, "h": 16.4, "from": "ring"},
+  {
+   "mm": [124.8, 328.8, 216.5, 343.1],
+   "w": 91.7,
+   "h": 14.2,
+   "from": "ring",
+   "words": ["AssiGhMEnt", "nen", "rlghi", "channei", "Iht", "mlrlng"]
+  },
+  {
+   "mm": [124.6, 295.4, 216.1, 305.9],
+   "w": 91.5,
+   "h": 10.6,
+   "from": "ring",
+   "words": ["control", "Re", "Pornend", "Jona", "nlrinp", "righi", "no", "outoun", "andlor", "pned"]
+  },
+  {"mm": [125.0, 269.6, 216.8, 277.0], "w": 91.8, "h": 7.4, "from": "ring", "words": ["FOLDBACK", "conIco"]},
+  {
+   "mm": [126.3, 117.4, 217.6, 135.4],
+   "w": 91.3,
+   "h": 18.0,
+   "from": "ring",
+   "words": ["ATTEMuaTOA", "cuT", "reulilng", "~Inflnlia", "Inom", "Int", "Ilched", "cue", "channele", "belng"]
+  },
+  {
+   "mm": [126.3, 71.2, 218.4, 92.6],
+   "w": 92.1,
+   "h": 21.4,
+   "from": "ring",
+   "words": ["DSI", "Int", "IoreIlon", "relaled", "urn", "chinnal", "cul", "IuncIlon"]
+  },
+  {"mm": [6.5, 71.5, 23.7, 89.6], "w": 17.3, "h": 18.1, "from": "ring"},
+  {"mm": [7.9, 73.2, 22.0, 88.1], "w": 14.1, "h": 14.9, "from": "ring"},
+  {"mm": [252.4, 58.3, 261.5, 63.3], "w": 9.1, "h": 5.0, "from": "ring"},
+  {"mm": [252.4, 53.3, 261.5, 57.9], "w": 9.1, "h": 4.5, "from": "ring"},
+  {"mm": [228.4, 39.5, 328.5, 53.5], "w": 100.1, "h": 14.0, "from": "ring", "words": ["BybteMB", "WAAD-BECK", "WBS"]},
+  {"mm": [252.4, 20.1, 328.6, 40.2], "w": 76.2, "h": 20.1, "from": "ring", "words": ["MaPok", "[INE iNput Module", "PANEL", "RONT"]},
+  {"mm": [228.6, 34.5, 251.7, 39.1], "w": 23.1, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [310.7, 11.0, 328.8, 20.7], "w": 18.1, "h": 9.7, "from": "ring"},
+  {"mm": [262.8, 10.2, 310.0, 20.3], "w": 47.3, "h": 10.1, "from": "ring", "words": ["490 - 04 -022"]},
+  {"mm": [315.9, 17.4, 318.5, 19.9], "w": 2.6, "h": 2.4, "from": "ring"},
+  {"mm": [318.7, 17.4, 323.9, 19.9], "w": 5.2, "h": 2.4, "from": "ring"},
+  {"mm": [252.8, 10.1, 262.1, 19.6], "w": 9.3, "h": 9.5, "from": "ring", "in_title_block": true},
+  {"mm": [228.6, 9.9, 252.2, 19.4], "w": 23.5, "h": 9.5, "from": "ring", "words": ["SCALE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 58,
+  "lines": [
+   {"mm": [160.0, 361.8, 199.7, 365.7], "text": "Provldat conllnuouely"},
+   {"mm": [204.2, 361.8, 214.0, 365.7], "text": "dlutt-"},
+   {"mm": [142.9, 358.6, 154.6, 362.2], "text": "conIrol"},
+   {"mm": [146.4, 338.7, 166.5, 342.6], "text": "AssiGhMEnt"},
+   {"mm": [161.5, 335.5, 185.2, 339.3], "text": "rlghi channei"},
+   {"mm": [193.2, 340.0, 200.8, 342.2], "text": "nen"},
+   {"mm": [172.9, 332.7, 178.8, 336.1], "text": "Iht"},
+   {"mm": [137.3, 328.4, 149.2, 332.2], "text": "mlrlng"},
+   {"mm": [133.9, 302.0, 145.9, 305.6], "text": "control"},
+   {"mm": [161.1, 302.0, 198.4, 305.2], "text": "Re Pornend Jona"},
+   {"mm": [141.4, 299.7, 147.2, 301.8], "text": "no"},
+   {"mm": [149.6, 298.2, 172.7, 302.0], "text": "righi outoun"},
+   {"mm": [187.4, 298.8, 198.6, 302.6], "text": "nlrinp"},
+   {"mm": [132.1, 295.4, 140.3, 298.7], "text": "pned"},
+   {"mm": [153.5, 295.6, 164.7, 298.9], "text": "andlor"},
+   {"mm": [9.9, 285.2, 18.6, 289.5], "text": "PAN"},
+   {"mm": [126.9, 272.2, 157.6, 276.1], "text": "FOLDBACK conIco"},
+   {"mm": [8.9, 259.9, 17.5, 264.7], "text": "FB 2"},
+   {"mm": [126.5, 197.3, 136.2, 201.2], "text": "SLIDE"},
+   {"mm": [207.5, 199.5, 216.1, 202.9], "text": "PRO-"},
+   {"mm": [136.7, 194.1, 151.1, 197.9], "text": "chinnel\""},
+   {"mm": [127.6, 130.4, 157.2, 134.2], "text": "ATTEMuaTOA cuT"},
+   {"mm": [138.4, 123.9, 153.3, 127.8], "text": "Inom Int"},
+   {"mm": [155.0, 124.4, 169.5, 128.2], "text": "~Inflnlia"},
+   {"mm": [189.1, 125.4, 204.2, 128.8], "text": "reulilng"},
+   {"mm": [127.6, 120.7, 163.0, 124.5], "text": "cue channele belng"},
+   {"mm": [168.6, 121.1, 179.4, 125.0], "text": "Ilched"},
+   {"mm": [9.9, 91.5, 17.9, 97.1], "text": "OFF"},
+   {"mm": [165.4, 81.2, 171.2, 85.0], "text": "DSI"},
+   {"mm": [174.2, 78.2, 202.3, 82.2], "text": "IoreIlon relaled"},
+   {"mm": [211.2, 78.6, 217.0, 82.4], "text": "Int"},
+   {"mm": [147.0, 74.7, 160.4, 78.1], "text": "chinnal"},
+   {"mm": [202.9, 76.0, 209.4, 78.2], "text": "urn"},
+   {"mm": [127.6, 71.0, 149.0, 74.9], "text": "cul IuncIlon"},
+   {"mm": [236.6, 43.0, 259.3, 48.2], "text": "WBS"},
+   {"mm": [264.7, 44.0, 298.2, 48.4], "text": "WAAD-BECK"},
+   {"mm": [299.7, 44.0, 325.6, 48.8], "text": "BybteMB"},
+   {"mm": [3.5, 37.6, 9.3, 43.1], "text": "ON"},
+   {"mm": [284.1, 33.7, 298.8, 39.2], "text": "MaPok"},
+   {"mm": [267.9, 27.9, 313.3, 33.1], "text": "[INE iNput Module"},
+   {"mm": [229.5, 24.6, 236.6, 28.5], "text": "cKD;"},
+   {"mm": [277.6, 22.5, 290.0, 26.8], "text": "RONT"},
+   {"mm": [291.7, 22.5, 306.1, 27.3], "text": "PANEL"},
+   {"mm": [229.5, 19.6, 236.6, 23.5], "text": "APP -"},
+   {"mm": [235.5, 15.3, 245.9, 19.2], "text": "SCALE"},
+   {"mm": [271.6, 12.7, 299.2, 18.3], "text": "490 - 04 -022"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [222.8, 6.7, 304.8, 57.0],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WAAD-BECK", "MaPok", "[INE iNput Module", "cKD;", "RONT", "PANEL", "APP -", "SCALE", "490 - 04 -022"]
+ },
+ "dots": [
+  {"c": [169.1, 334.2], "r": 0.9, "lines": 0},
+  {"c": [144.9, 333.6], "r": 1.1, "lines": 0},
+  {"c": [177.0, 300.5], "r": 0.9, "lines": 0},
+  {"c": [208.6, 274.9], "r": 1.2, "lines": 0},
+  {"c": [214.2, 90.4], "r": 0.9, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 2–430 mm up",
+  "- **Outlines:** line 602 rings, 6,422 straight (12,748 mm) / 1,538 curved (2,150 mm); text 262 rings, 1,725 straight (1,618 mm) / 701 curved (954 mm); tb 25 rings, 234 straight (302 mm) / 72 curved (98.0 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 4.7 @ (13.2, 361.3), r 4.4 @ (14.0, 299.5), r 2.0 @ (6.5, 29.5)",
+  "- **Closed boxes:** 20 (3 in the title block); named: AssiGhMEnt nen rlghi channei Iht mlrlng; control Re Pornend Jona nlrinp righi no ; FOLDBACK conIco; ATTEMuaTOA cuT reulilng ~Inflnlia Inom I; DSI Int IoreIlon relaled urn chinnal cul; BybteMB WAAD-BECK WBS; MaPok [INE iNput Module PANEL RONT; 490 - 04 -022",
+  "- **Dots (junctions):** 5",
+  "- **Words (OCR):** 58 in 46 lines: Provldat conllnuouely · dlutt- · conIrol · AssiGhMEnt · rlghi channei · nen · Iht · mlrlng · control · Re Pornend Jona · no · righi outoun",
+  "- **Title block:** (223, 7)–(305, 57) mm: WBS · WAAD-BECK · MaPok · [INE iNput Module · cKD; · RONT · PANEL · APP - · SCALE · 490 - 04 -022"
+ ]
+}

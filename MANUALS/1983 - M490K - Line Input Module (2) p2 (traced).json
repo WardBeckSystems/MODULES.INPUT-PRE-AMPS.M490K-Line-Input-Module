@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/0550d6b4130e108e-p2.svg",
+ "sheet": {
+  "number": "8490-06-021",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.5, 421.9],
+ "outlines": {
+  "line": {"rings": 172, "straight": {"n": 1763, "mm": 4419.4}, "curved": {"n": 502, "mm": 553.0}},
+  "text": {"rings": 475, "straight": {"n": 3571, "mm": 3649.5}, "curved": {"n": 1004, "mm": 1142.9}}
+ },
+ "circles": [
+  {"c": [262.4, 237.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [262.3, 250.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [262.2, 277.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [28.5, 412.8, 53.8, 417.6], "text": "Linm"},
+   {"mm": [57.6, 410.4, 124.8, 419.8], "text": "BeCk Ertems"},
+   {"mm": [135.8, 368.8, 154.8, 375.0], "text": "TABLE"},
+   {"mm": [172.1, 368.8, 203.6, 375.0], "text": "CONTENTS"},
+   {"mm": [123.1, 354.5, 214.6, 361.0], "text": "Mank LINE hPUT \"ODULE"},
+   {"mm": [44.9, 312.8, 73.4, 322.2], "text": "SECWION"},
+   {"mm": [231.9, 315.2, 249.1, 321.5], "text": "PacF"},
+   {"mm": [118.3, 288.4, 148.3, 294.7], "text": "Warrant"},
+   {"mm": [118.3, 275.7, 148.3, 280.5], "text": "Eachnic"},
+   {"mm": [118.3, 261.7, 179.8, 267.9], "text": "cicum Deaccloilo"},
+   {"mm": [118.3, 248.9, 137.3, 253.7], "text": "Pacia"},
+   {"mm": [118.3, 234.9, 151.3, 241.1], "text": "Connectcn"},
+   {"mm": [153.1, 233.2, 179.2, 242.5], "text": "Loul"},
+   {"mm": [117.4, 213.5, 175.3, 227.7], "text": "cdcondixc Ceeun"},
+   {"mm": [244.6, 215.9, 266.6, 220.7], "text": "Kuuih"},
+   {"mm": [118.3, 209.6, 137.3, 214.4], "text": "7ac7s"},
+   {"mm": [151.6, 208.1, 175.3, 214.4], "text": "circuil"},
+   {"mm": [244.6, 209.6, 261.9, 214.4], "text": "JaC7i"},
+   {"mm": [118.3, 201.7, 175.3, 207.9], "text": "7LCzZI circuit"},
+   {"mm": [244.6, 203.4, 261.9, 208.2], "text": "74225"},
+   {"mm": [118.3, 189.1, 137.3, 193.9], "text": "ora"},
+   {"mm": [135.8, 186.8, 153.9, 194.7], "text": "J7di:"},
+   {"mm": [118.3, 181.1, 137.3, 187.4], "text": "Freri ["},
+   {"mm": [140.3, 182.9, 159.3, 187.7], "text": "Panal"},
+   {"mm": [244.6, 182.9, 282.4, 187.7], "text": "Hau-im"},
+   {"mm": [118.3, 174.9, 154.6, 179.7], "text": "4Uncicna"},
+   {"mm": [244.6, 176.6, 261.9, 181.4], "text": "84at"},
+   {"mm": [244.6, 170.1, 282.4, 174.9], "text": "AaO-M_l"},
+   {"mm": [118.3, 168.6, 151.3, 173.4], "text": "Schenn ic"},
+   {"mm": [118.3, 162.4, 180.1, 167.2], "text": "cnmdoner Layqua"},
+   {"mm": [244.6, 162.4, 282.4, 168.6], "text": "843J-Cc-0z1"},
+   {"mm": [251.7, 34.8, 306.1, 88.3], "text": "CBSps:"}
+  ]
+ },
+ "dots": [{"c": [91.9, 190.5], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 8490-06-021, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–422 mm up",
+  "- **Outlines:** line 172 rings, 1,763 straight (4,419 mm) / 502 curved (553 mm); text 475 rings, 3,571 straight (3,650 mm) / 1,004 curved (1,143 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (262.4, 237.6), r 1.7 @ (262.3, 250.9), r 1.7 @ (262.2, 277.6)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 39 in 32 lines: Linm · BeCk Ertems · TABLE · CONTENTS · Mank LINE hPUT \"ODULE · SECWION · PacF · Warrant · Eachnic · cicum Deaccloilo · Pacia · Connectcn"
+ ]
+}

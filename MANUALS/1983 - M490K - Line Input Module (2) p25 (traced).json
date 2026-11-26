@@ -1,0 +1,86 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module (2).pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/0550d6b4130e108e-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.7, 335.3, 429.2],
+ "outlines": {
+  "line": {"rings": 311, "straight": {"n": 4032, "mm": 8628.1}, "curved": {"n": 669, "mm": 1128.8}},
+  "text": {"rings": 257, "straight": {"n": 1799, "mm": 2482.7}, "curved": {"n": 556, "mm": 867.7}}
+ },
+ "circles": [
+  {"c": [208.2, 155.8], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [269.0, 156.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [263.6, 330.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [23.7, 163.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [253.5, 311.3, 267.3, 325.6], "w": 13.8, "h": 14.2, "from": "ring"},
+  {"mm": [284.8, 191.7, 298.6, 206.0], "w": 13.9, "h": 14.2, "from": "ring"},
+  {"mm": [168.6, 124.1, 187.6, 196.0], "w": 19.1, "h": 71.9, "from": "ring", "words": ["PGM/", "CUE", "cn", "LOGIC"]}
+ ],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [102.8, 314.6, 210.3, 332.1], "text": "r-31~INSERT"},
+   {"mm": [313.9, 327.1, 325.6, 332.4], "text": "PAN"},
+   {"mm": [309.8, 321.3, 330.8, 326.5], "text": "INSERT"},
+   {"mm": [1.1, 314.8, 38.0, 320.1], "text": "LINE INPUTS"},
+   {"mm": [22.9, 304.0, 34.8, 318.1], "text": "dBm"},
+   {"mm": [7.8, 306.1, 19.0, 311.4], "text": "30/0"},
+   {"mm": [7.6, 301.2, 30.7, 306.2], "text": "600 ohm"},
+   {"mm": [151.3, 288.9, 166.7, 294.2], "text": "TRIM"},
+   {"mm": [79.5, 278.9, 87.2, 287.3], "text": "?lE"},
+   {"mm": [12.5, 279.8, 31.1, 285.1], "text": "INPUT"},
+   {"mm": [155.2, 279.8, 161.7, 284.8], "text": "0d"},
+   {"mm": [6.0, 271.8, 38.0, 277.1], "text": "SELECTOR"},
+   {"mm": [7.6, 265.1, 36.3, 270.4], "text": "CONT ROL"},
+   {"mm": [89.0, 264.5, 99.3, 271.9], "text": "-)lE--"},
+   {"mm": [35.2, 250.4, 43.6, 255.7], "text": "CO"},
+   {"mm": [128.5, 182.2, 158.9, 187.5], "text": "CUE)E--"},
+   {"mm": [40.4, 173.6, 49.2, 178.9], "text": "ON"},
+   {"mm": [169.9, 172.5, 185.7, 177.8], "text": "PGM/"},
+   {"mm": [1.5, 166.7, 32.6, 172.0], "text": "EXT ERNAL"},
+   {"mm": [0.9, 161.5, 49.2, 166.8], "text": "CONTROLS OFF"},
+   {"mm": [172.5, 162.1, 184.4, 167.4], "text": "CUE"},
+   {"mm": [172.5, 150.9, 226.9, 159.6], "text": "cn --@CUE"},
+   {"mm": [242.9, 151.3, 275.1, 159.3], "text": "/P1) CH ON"},
+   {"mm": [37.4, 151.8, 49.2, 157.1], "text": "CUE"},
+   {"mm": [80.1, 141.0, 99.7, 146.3], "text": "CH ON"},
+   {"mm": [169.0, 141.6, 187.0, 146.9], "text": "LOGIC"},
+   {"mm": [116.4, 128.2, 157.8, 140.0], "text": "CHOFF~-"},
+   {"mm": [15.5, 115.3, 48.8, 120.6], "text": "ON/START"},
+   {"mm": [6.5, 104.9, 48.8, 110.2], "text": "TIMER RESET"},
+   {"mm": [14.9, 93.1, 48.6, 98.3], "text": "OFF TALLY"},
+   {"mm": [129.8, 86.6, 141.0, 94.0], "text": "'WI"},
+   {"mm": [16.4, 81.8, 48.8, 87.1], "text": "OFF/STOP"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 6–429 mm up",
+  "- **Outlines:** line 311 rings, 4,032 straight (8,628 mm) / 669 curved (1,129 mm); text 257 rings, 1,799 straight (2,483 mm) / 556 curved (868 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.4 @ (208.2, 155.8), r 2.3 @ (269.0, 156.0), r 2.3 @ (263.6, 330.3), r 2.3 @ (23.7, 163.0)",
+  "- **Closed boxes:** 3; named: PGM/ CUE cn LOGIC",
+  "- **Words (OCR):** 47 in 36 lines: r-31~INSERT · PAN · INSERT · LINE INPUTS · dBm · 30/0 · 600 ohm · TRIM · ?lE · INPUT · 0d · SELECTOR"
+ ]
+}

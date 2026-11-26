@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module.pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/0964088ad78ad825-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.7, 335.3, 429.2],
+ "outlines": {
+  "line": {"rings": 345, "straight": {"n": 4096, "mm": 8945.1}, "curved": {"n": 605, "mm": 985.8}},
+  "text": {"rings": 223, "straight": {"n": 1735, "mm": 2165.7}, "curved": {"n": 620, "mm": 1010.7}}
+ },
+ "circles": [{"c": [208.2, 155.8], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [253.5, 311.3, 267.3, 325.6], "w": 13.8, "h": 14.2, "from": "ring"},
+  {"mm": [284.8, 191.7, 298.6, 206.0], "w": 13.9, "h": 14.2, "from": "ring"},
+  {"mm": [168.6, 124.1, 187.6, 196.0], "w": 19.1, "h": 71.9, "from": "ring", "words": ["PGmi", "CUE", "CTL", "LoGIC"]}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [226.7, 335.1, 248.3, 342.0], "text": "FADER"},
+   {"mm": [223.9, 327.1, 270.7, 334.3], "text": "(-10dB) Ch ON"},
+   {"mm": [312.2, 329.0, 325.6, 334.3], "text": "PAN"},
+   {"mm": [186.1, 321.7, 210.3, 329.4], "text": "INSERT"},
+   {"mm": [307.4, 322.3, 330.1, 329.3], "text": "INSERT"},
+   {"mm": [0.0, 313.5, 37.6, 321.2], "text": "LINE INPUTS"},
+   {"mm": [3.2, 307.0, 35.2, 313.5], "text": "-30/0 dBm"},
+   {"mm": [5.8, 300.5, 30.7, 307.0], "text": "600 ohm"},
+   {"mm": [150.1, 289.3, 166.7, 295.8], "text": "TRIM"},
+   {"mm": [147.9, 282.4, 169.9, 289.4], "text": "(30dB)"},
+   {"mm": [10.8, 277.4, 31.3, 284.4], "text": "INP UT"},
+   {"mm": [4.3, 271.0, 38.2, 278.6], "text": "SELECTOR"},
+   {"mm": [6.5, 265.1, 36.7, 271.6], "text": "CONTROL"},
+   {"mm": [33.9, 248.7, 50.1, 255.7], "text": "com"},
+   {"mm": [284.8, 207.7, 297.7, 214.2], "text": "CUE"},
+   {"mm": [127.8, 182.4, 141.8, 188.9], "text": "CUE"},
+   {"mm": [39.9, 171.6, 50.7, 179.3], "text": "ON"},
+   {"mm": [169.5, 172.7, 186.8, 179.7], "text": "PGmi"},
+   {"mm": [1.1, 165.2, 33.5, 172.1], "text": "EXTERNAL"},
+   {"mm": [0.4, 159.3, 33.7, 166.3], "text": "CONTROLS"},
+   {"mm": [37.1, 161.5, 50.5, 168.4], "text": "OFF"},
+   {"mm": [172.1, 161.5, 186.1, 168.9], "text": "CUE"},
+   {"mm": [37.1, 150.1, 51.2, 158.2], "text": "CUE"},
+   {"mm": [172.1, 151.6, 186.1, 158.5], "text": "CTL"},
+   {"mm": [214.8, 152.2, 228.9, 159.2], "text": "CUE"},
+   {"mm": [254.8, 152.2, 264.9, 159.2], "text": "ch"},
+   {"mm": [266.4, 152.9, 276.1, 159.3], "text": "ON"},
+   {"mm": [79.9, 140.3, 101.9, 147.3], "text": "Ch On"},
+   {"mm": [168.8, 141.4, 188.3, 148.4], "text": "LoGIC"},
+   {"mm": [115.9, 129.5, 151.6, 136.5], "text": "Ch OFF X"},
+   {"mm": [15.1, 113.3, 50.7, 122.0], "text": "On ISTART"},
+   {"mm": [6.5, 103.2, 50.1, 110.2], "text": "Timer RESET"},
+   {"mm": [15.1, 91.8, 50.7, 98.7], "text": "Off TALLY"},
+   {"mm": [16.6, 80.3, 50.5, 88.0], "text": "OFF /stop"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 6–429 mm up",
+  "- **Outlines:** line 345 rings, 4,096 straight (8,945 mm) / 605 curved (986 mm); text 223 rings, 1,735 straight (2,166 mm) / 620 curved (1,011 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 4.4 @ (208.2, 155.8)",
+  "- **Closed boxes:** 3; named: PGmi CUE CTL LoGIC",
+  "- **Words (OCR):** 38 in 34 lines: FADER · (-10dB) Ch ON · PAN · INSERT · INSERT · LINE INPUTS · -30/0 dBm · 600 ohm · TRIM · (30dB) · INP UT · SELECTOR"
+ ]
+}

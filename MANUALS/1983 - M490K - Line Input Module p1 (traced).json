@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0964088ad78ad825-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.8, 18.8, 305.2, 421.0],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 476, "mm": 2695.7}, "curved": {"n": 55, "mm": 91.7}},
+  "text": {"rings": 159, "straight": {"n": 1710, "mm": 2359.4}, "curved": {"n": 417, "mm": 693.0}},
+  "tb": {"rings": 8, "straight": {"n": 128, "mm": 306.3}, "curved": {"n": 12, "mm": 17.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [118.5, 400.3, 285.9, 409.9], "text": "WARD-BECK SYSTEMS LTD;"},
+   {"mm": [47.9, 391.2, 254.3, 405.4], "text": "WBS 841 PAOGPESS AVENUE, SCAABOAOUGH; ONTARIO"},
+   {"mm": [256.1, 396.0, 280.9, 400.8], "text": "M1h 2*4"},
+   {"mm": [205.3, 388.8, 280.9, 396.0], "text": "TELEPHONE 4161438-6550"},
+   {"mm": [117.4, 389.9, 135.8, 394.7], "text": "Telex"},
+   {"mm": [137.7, 389.5, 170.1, 395.0], "text": "065-25399"},
+   {"mm": [137.7, 232.1, 192.6, 247.4], "text": "M490K"},
+   {"mm": [125.2, 214.2, 213.3, 222.3], "text": "LINE INPUT MODULE"},
+   {"mm": [217.8, 50.1, 243.8, 57.0], "text": "MANUAL"},
+   {"mm": [247.0, 50.7, 265.8, 57.7], "text": "ISSUE"},
+   {"mm": [217.8, 37.1, 251.7, 43.6], "text": "DECEMBER"},
+   {"mm": [254.8, 37.1, 269.9, 44.1], "text": "1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [41.3, 42.1, 272.7, 418.6],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD;",
+   "WBS 841 PAOGPESS AVENUE, SCAABOAOUGH; ONTARIO",
+   "M1h 2*4",
+   "TELEPHONE 4161438-6550",
+   "Telex",
+   "065-25399",
+   "M490K",
+   "LINE INPUT MODULE",
+   "MANUAL",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–305 mm across, 19–421 mm up",
+  "- **Outlines:** line 22 rings, 476 straight (2,696 mm) / 55 curved (91.7 mm); text 159 rings, 1,710 straight (2,359 mm) / 417 curved (693 mm); tb 8 rings, 128 straight (306 mm) / 12 curved (17.6 mm)",
+  "- **Words (OCR):** 17 in 12 lines: WARD-BECK SYSTEMS LTD; · WBS 841 PAOGPESS AVENUE, SCAABOAOUGH; ONTARIO · M1h 2*4 · TELEPHONE 4161438-6550 · Telex · 065-25399 · M490K · LINE INPUT MODULE · MANUAL · ISSUE · DECEMBER · 1983",
+  "- **Title block:** (41, 42)–(273, 419) mm: WARD-BECK SYSTEMS LTD; · WBS 841 PAOGPESS AVENUE, SCAABOAOUGH; ONTARIO · M1h 2*4 · TELEPHONE 4161438-6550 · Telex · 065-25399 · M490K · LINE INPUT MODULE · MANUAL · ISSUE"
+ ]
+}

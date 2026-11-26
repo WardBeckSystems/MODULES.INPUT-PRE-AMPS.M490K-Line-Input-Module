@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0550d6b4130e108e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.8, 18.8, 310.5, 421.0],
+ "outlines": {
+  "line": {"rings": 45, "straight": {"n": 841, "mm": 3283.1}, "curved": {"n": 119, "mm": 187.0}},
+  "text": {"rings": 149, "straight": {"n": 1146, "mm": 1539.2}, "curved": {"n": 233, "mm": 388.2}},
+  "tb": {"rings": 65, "straight": {"n": 781, "mm": 1075.1}, "curved": {"n": 184, "mm": 312.5}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [275.3, 403.7, 279.6, 407.2], "w": 4.3, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [42.3, 388.4, 169.7, 406.7], "text": "(\\NBS] 84 0Ge·~"},
+   {"mm": [118.7, 400.3, 281.3, 407.7], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [161.7, 394.9, 182.7, 398.7], "text": "A\\Il!Nue"},
+   {"mm": [186.1, 394.7, 254.1, 399.0], "text": "SCARElCII'lOI.J CNT.....-::l"},
+   {"mm": [118.3, 389.1, 134.5, 392.9], "text": "TELEX"},
+   {"mm": [206.6, 389.1, 237.5, 392.9], "text": "TE l..E PMONI!!"},
+   {"mm": [247.2, 388.4, 263.2, 393.7], "text": "ll '''3a"},
+   {"mm": [138.8, 231.7, 190.0, 243.9], "text": "M490K"},
+   {"mm": [126.5, 214.2, 212.4, 220.6], "text": "LINE INPUT MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [218.9, 50.3, 264.9, 56.8], "text": "~ANUAL ISSUE"},
+   {"mm": [269.9, 50.3, 275.9, 56.3], "text": "111"},
+   {"mm": [219.1, 37.4, 269.0, 42.6], "text": "DECEMBER 1983"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [112.0, 42.1, 271.7, 416.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD",
+   "A\\Il!Nue",
+   "SCARElCII'lOI.J CNT.....-::l",
+   "TELEX",
+   "TE l..E PMONI!!",
+   "ll '''3a",
+   "M490K",
+   "LINE INPUT MODULE",
+   "~ANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–310 mm across, 19–421 mm up",
+  "- **Outlines:** line 45 rings, 841 straight (3,283 mm) / 119 curved (187 mm); text 149 rings, 1,146 straight (1,539 mm) / 233 curved (388 mm); tb 65 rings, 781 straight (1,075 mm) / 184 curved (312 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 28 in 16 lines: (\\NBS] 84 0Ge·~ · WARD-BECK SYSTEMS LTD · A\\Il!Nue · SCARElCII'lOI.J CNT.....-::l · TELEX · TE l..E PMONI!! · ll '''3a · M490K · LINE INPUT MODULE · ps · BS · ~ANUAL ISSUE",
+  "- **Title block:** (112, 42)–(272, 416) mm: WARD-BECK SYSTEMS LTD · A\\Il!Nue · SCARElCII'lOI.J CNT.....-::l · TELEX · TE l..E PMONI!! · ll '''3a · M490K · LINE INPUT MODULE · ~ANUAL ISSUE"
+ ]
+}
