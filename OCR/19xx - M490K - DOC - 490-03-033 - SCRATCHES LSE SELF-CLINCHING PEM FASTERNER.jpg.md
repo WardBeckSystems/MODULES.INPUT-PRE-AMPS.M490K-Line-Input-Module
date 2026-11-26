@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 103 in 84 lines: 124SC · 76e · 12.938 · 12 .Oce · 5.203 · 5.025 · 5-066 · 5.5C · 06@ · W72DIA.MILL · 700 · Sz2 note
 - **Title block:** (355, 19)–(432, 34) mm: WBS WAAD-DeCK SySteMS · M49ok
 
-Every curve, box, word and wire group: [19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER (traced).json](../MECHANICAL/19xx%20-%20M490K%20-%20DOC%20-%20490-03-033%20-%20SCRATCHES%20LSE%20SELF-CLINCHING%20PEM%20FASTERNER%20(traced).json) (the CAD file: `19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER (traced).json](../MECHANICAL/19xx%20-%20M490K%20-%20DOC%20-%20490-03-033%20-%20SCRATCHES%20LSE%20SELF-CLINCHING%20PEM%20FASTERNER%20%28traced%29.json) (the CAD file: `19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER (traced).dxf`).
 
 ## Full text
 

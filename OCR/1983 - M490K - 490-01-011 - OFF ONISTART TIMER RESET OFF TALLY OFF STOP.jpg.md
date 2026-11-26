@@ -22,7 +22,7 @@ Wiki page: [M490K](../../../../PAGES/M490K.md)
 - **Words (OCR):** 38 in 34 lines: FADER · (-10dB) Ch ON · PAN · 3I8 · INSERT · INSERT · LINE INPUTS · ~30/0 dBm · 600 ohm · TRIM · (3odB) · INPUT
 - **Wiring (first pass):** 177 connected wire groups from 346 runs; labelled ends: 206 mm → INSERT, (-10dB), CUE; 106 mm → CUE, CTL, LoGic; 105 mm → CUE, CTL, LoGic; 58 mm → 3I8; 41 mm → 3I8
 
-Every curve, box, word and wire group: [1983 - M490K - 490-01-011 - OFF ONISTART TIMER RESET OFF TALLY OFF STOP (traced).json](../SCHEMATICS/1983%20-%20M490K%20-%20490-01-011%20-%20OFF%20ONISTART%20TIMER%20RESET%20OFF%20TALLY%20OFF%20STOP%20(traced).json) (the CAD file: `1983 - M490K - 490-01-011 - OFF ONISTART TIMER RESET OFF TALLY OFF STOP (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - 490-01-011 - OFF ONISTART TIMER RESET OFF TALLY OFF STOP (traced).json](../SCHEMATICS/1983%20-%20M490K%20-%20490-01-011%20-%20OFF%20ONISTART%20TIMER%20RESET%20OFF%20TALLY%20OFF%20STOP%20%28traced%29.json) (the CAD file: `1983 - M490K - 490-01-011 - OFF ONISTART TIMER RESET OFF TALLY OFF STOP (traced).dxf`).
 
 ## Full text
 

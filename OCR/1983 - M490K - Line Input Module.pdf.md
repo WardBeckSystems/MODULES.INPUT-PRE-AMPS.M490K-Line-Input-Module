@@ -22,7 +22,7 @@ Wiki page: [M490K](../../../../PAGES/M490K.md)
 - **Words (OCR):** 17 in 12 lines: WARD-BECK SYSTEMS LTD; · WBS 841 PAOGPESS AVENUE, SCAABOAOUGH; ONTARIO · M1h 2*4 · TELEPHONE 4161438-6550 · Telex · 065-25399 · M490K · LINE INPUT MODULE · MANUAL · ISSUE · DECEMBER · 1983
 - **Title block:** (41, 42)–(273, 419) mm: WARD-BECK SYSTEMS LTD; · WBS 841 PAOGPESS AVENUE, SCAABOAOUGH; ONTARIO · M1h 2*4 · TELEPHONE 4161438-6550 · Telex · 065-25399 · M490K · LINE INPUT MODULE · MANUAL · ISSUE
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p1 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p1%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p1 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p1 (tra
 - **Words (OCR):** 54 in 39 lines: WAAD-BECK · SYSTEms LTD; · TABLE OF CONTENTS · M49OK LINE · INPUT · MODULE · SECTION · PAGE · Warranty · Technical Data · 1-1 to · 1-2
 - **Title block:** (21, 403)–(131, 428) mm: WAAD-BECK · SYSTEms LTD;
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p2 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p2%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p2 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p2 (tra
 - **Dots (junctions):** 2
 - **Words (OCR):** 189 in 97 lines: WARO-BECK SyStems LTD. · TECHNICAL DATA · M4gOK LINE · iNPUT MODULE · Input · Sensitivity: · -30 t0 · dBm (ref . 600 ohm source) · Frequency Response: · +/-0.5 dB from 30 Hz 20 kHz . · to · Noise:
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p3 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p3%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p3 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -52,7 +52,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p3 (tra
 - **Words (OCR):** 61 in 33 lines: WAAD-BECK · systems LTD; · TECHNICAL DATA · M49ok LINE · INPUT MODULE · Minimum Ioad impedance: · 600 ohms. · Maximum Ioad current: · 40 mA _ · Maximum supply · voltage: · +24 volts .
 - **Title block:** (24, 404)–(134, 429) mm: WAAD-BECK · systems LTD;
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p4 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p4%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p4 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -62,7 +62,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p4 (tra
 - **Words (OCR):** 266 in 172 lines: WAAD-BECK SYSTEmS LTD; · CiRcuiT · DESCRIPTION · ML9OK · LINE · inPuT · MODULE · comp lete · remote · line input · facilities, as · required
 - **Title block:** (23, 136)–(306, 430) mm: WAAD-BECK SYSTEmS LTD; · CiRcuiT · DESCRIPTION · ML9OK · LINE · inPuT · MODULE · comp lete · remote · line input · facilities, as · required · The · M49OK · provides · for · mixing console. · Included
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p5 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p5%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p5 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p5 (tra
 - **Words (OCR):** 315 in 158 lines: WAAD-BECK · systems LTD · CIRcUIT · DESCRIPTION · M49OK LINE · inPuT MQDULE · Program_Channel Switch_ · 22 is CMOS analog · switch, serv · ing as · the · active switching element
 - **Title block:** (24, 404)–(134, 429) mm: WAAD-BECK · systems LTD
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p6 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p6%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p6 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p6 (tra
 - **Words (OCR):** 264 in 131 lines: WARD-BECK · systems LTD, · CiRcuiT DESCRIPTION · M4gok LINE inPUT · MODULE · Foldback · Outputs · The · FOLDBACK outputs, · like the · POST DIRECT output, are · taken
 - **Title block:** (24, 403)–(134, 428) mm: WARD-BECK · systems LTD,
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p7 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p7%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p7 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p7 (tra
 - **Words (OCR):** 301 in 167 lines: WAAD-BECK · sySTems LTD. · CIRcuiT DESCRIPTON · M4gOk LINE · iNPUT · MODULE · applied either · 013 and · 014, · positive base · potential is · to
 - **Title block:** (21, 403)–(131, 427) mm: WAAD-BECK · sySTems LTD.
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p8 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p8%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p8 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p8 (tra
 - **Words (OCR):** 293 in 160 lines: WAAD-BECK · SYSTEms LTD. · CARcUIT · DESCRIPTION · M49ok LINE · iNPuT MODULE · This change · of state can · be · brought about by any one · of · three
 - **Title block:** (22, 405)–(132, 429) mm: WAAD-BECK · SYSTEms LTD.
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p9 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p9%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p9 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p9 (tra
 - **Outlines:** line 152 rings, 1,377 straight (3,939 mm) / 269 curved (422 mm); text 1,050 rings, 8,381 straight (9,689 mm) / 2,605 curved (4,199 mm)
 - **Words (OCR):** 152 in 135 lines: WAAD-BECK SYSTEMs LTD. · PARTS LIST · MLgok LINE INPUT · MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · ATTI Attenuator, · c/w connector · PBG · 1550/4H35/100
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p10 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p10%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p10 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -125,7 +125,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p10 (tr
 - **Outlines:** line 178 rings, 1,447 straight (4,321 mm) / 265 curved (408 mm); text 840 rings, 6,906 straight (7,962 mm) / 2,078 curved (3,373 mm)
 - **Words (OCR):** 120 in 106 lines: WAAD-BECK SYSTems LTD; · PARTS · LIST · M49OK LINE INPUT MQDULE · PART DESCR IPT ION · MFG · MFG PART · NUMBER · C33 · Capacitor 6800 pF · co92-MC-682m · Aselco
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p11 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p11%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p11 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p11 (tr
 - **Outlines:** line 145 rings, 1,303 straight (4,158 mm) / 203 curved (315 mm); text 616 rings, 4,770 straight (5,631 mm) / 1,356 curved (2,156 mm)
 - **Words (OCR):** 95 in 83 lines: WAAD-BECK SYSTEMs LTD_ · PARIS LIST · M4gok LINE inPuT MODULE · PARI DESCRIPTION · MFG · MFG PART NUMBER · CR13 · delete · CRIL · Diode · Motorola · INLOO3
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p12 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p12%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p12 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p12 (tr
 - **Words (OCR):** 90 in 84 lines: WARO-BECK · PARTS LiST · M49OK LINE INPUT · MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R6 · Resistor · 1/4w · 1k2
 - **Title block:** (24, 159)–(252, 427) mm: WARO-BECK · PARTS LiST · M49OK LINE INPUT · MODULE · PART · DESCRIPTION · MFG · R6 · Resistor · 1/4w · 1k2 · Philips · 150 · R8 · 150 · R9 · 150 · Rio · 150 · 18K · R12 · 15k · R13 · 22k · R14 · 180 ·
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p13 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p13%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p13 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p13 (tr
 - **Words (OCR):** 94 in 86 lines: WARD-BECK Systems LTD. · PARIS · LiST · M4gok LINE InPuT · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · Resistor 1/4w · Philips
 - **Title block:** (23, 100)–(252, 428) mm: WARD-BECK Systems LTD. · PARIS · LiST · M4gok LINE InPuT · MODULE · PART · DESCRIPTION · MFG · MFG PART · Resistor 1/4w · Philips · R41 · 2k2 · R42 · 47K · R43 · 47k · R4L · 1K · R45 · 1K · R46 · 47K 
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p14 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p14%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p14 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -164,7 +164,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p14 (tr
 - **Words (OCR):** 87 in 79 lines: WARD-BECK SYSTEMS LTD; · PARTS LIST · M4gok LINE INPUT · MODULE · PART · DESCR IPT ION · MFG · MFG PART NUMBER · R76 · Resistor 1/4w · 15k · Philips
 - **Title block:** (24, 404)–(134, 428) mm: WARD-BECK SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p15 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p15%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p15 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -174,7 +174,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p15 (tr
 - **Words (OCR):** 92 in 86 lines: WAAD-BECK · Systems LTD; · PARTS LiST · MLgok LINE · INPUT · MODULE · PART DESCRIPTION · MFG · MFG PART NUMBER · RIII · Resistor · 1/4w
 - **Title block:** (21, 405)–(131, 429) mm: WAAD-BECK · Systems LTD;
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p16 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p16%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p16 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -184,7 +184,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p16 (tr
 - **Words (OCR):** 113 in 94 lines: WARD-BECK SYSTEMS LTD_ · PARTS LIST · M4gok LINE · inPuT MODULE · PART DESCRIPTION · MFG · MFG · PART NUMBER · 1/2w · Philips · R146 · Resistor
 - **Title block:** (19, 40)–(272, 428) mm: WARD-BECK SYSTEMS LTD_ · PARTS LIST · M4gok LINE · inPuT MODULE · PART DESCRIPTION · MFG · MFG · PART NUMBER · 1/2w · Philips · R146 · Resistor · 150 · R147 · 1/4w · 620 · R148 · 620 · R149 · 1/2w · 1
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p17 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p17%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p17 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p17 (tr
 - **Words (OCR):** 90 in 55 lines: WAAD-BECK SYSTems LTD. · CONNECTOR LAYOUI · M49OK LINE inPUT · MQDULE · PI · PGM · out , LEFT · out , LEFT · PGM · PGM OuT, · RIGHT · RIGHT
 - **Title block:** (25, 404)–(135, 428) mm: WAAD-BECK SYSTems LTD.
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p18 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p18%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p18 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -205,7 +205,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p18 (tr
 - **Closed boxes:** 43; named: 10; 12; 13; 14; 15; 16; 17; 19; 20; 21; 22
 - **Words (OCR):** 101 in 60 lines: WAAD-BECK · LTD. · CONNECTOR LAYoUT · ML9OK LINE INPUT · MODULE · P2 · INPuT IN · LINE IN · NC · NC · LINE TN · LINE IN
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p19 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p19%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p19 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -216,7 +216,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p19 (tr
 - **Words (OCR):** 80 in 50 lines: WAAD-BECK systems LTD; · INTEGRATED · CIRCUIT DAIA · CD4016 · QUAD_BILATERAL SWIICH · The · Cd4o16 · quad bilatera ] · switch which utilizes P-channe] · circuits · Provide an · and N-channe] complementary
 - **Title block:** (3, 400)–(133, 425) mm: WAAD-BECK systems LTD;
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p20 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p20%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p20 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -227,7 +227,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p20 (tr
 - **Dots (junctions):** 2
 - **Words (OCR):** 131 in 78 lines: WAAD-BECK systems LTD · INIEGRATED_CIRCUII DAIA · 74C16 · DUAL J-K · FLIP-FLOP WITH CLEAR ANDPRESET · The 74076 J-k flip-flop is monolithic · CMOs circuit Each · flop has independent · clock, clear and preset inputs · and W outputs The flip-flops are · edge sensitive the · to
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p21 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p21%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p21 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -239,7 +239,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p21 (tr
 - **Words (OCR):** 106 in 73 lines: WAAD-BECK · Systems LTD; · INTEGRAIED CIRCUIT DAIA · 74C221 · DUAL · MONOSTABLE · MULIIBRAIQR · The · 740221 dua 1 monostab]e · multivibrator is · CMOS · integrated
 - **Title block:** (1, 405)–(111, 430) mm: WAAD-BECK · Systems LTD;
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p22 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p22%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p22 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p22%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -251,7 +251,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p22 (tr
 - **Dots (junctions):** 1
 - **Words (OCR):** 40 in 37 lines: WBS · Line · Jed · end · PAH conc · Pah Tch · PAN · LEVEL coniro · FB 1 · FB ? · 20 · 20
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p23 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p23%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p23 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p23%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -264,7 +264,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p23 (tr
 - **Words (OCR):** 58 in 46 lines: Provldat conllnuouely · dlutt- · conIrol · AssiGhMEnt · rlghi channei · nen · Iht · mlrlng · control · Re Pornend Jona · no · righi outoun
 - **Title block:** (223, 7)–(305, 57) mm: WBS · WAAD-BECK · MaPok · [INE iNput Module · cKD; · RONT · PANEL · APP - · SCALE · 490 - 04 -022
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p24 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p24%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p24 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p24%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -275,7 +275,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p24 (tr
 - **Closed boxes:** 3; named: PGmi CUE CTL LoGIC
 - **Words (OCR):** 38 in 34 lines: FADER · (-10dB) Ch ON · PAN · INSERT · INSERT · LINE INPUTS · -30/0 dBm · 600 ohm · TRIM · (30dB) · INP UT · SELECTOR
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p25 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p25%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p25 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p25%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -289,7 +289,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p25 (tr
 - **Title block:** (119, 12)–(335, 114) mm: V4le3 ADDED DIRECT · OUTPUTS · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: · BD 83 · M49ok · LINE INPUT MODULE · CKD · FUNCTIONAL DIAGRAM · APP · 774) · SCALE · ISSUE · 490-01-011
 - **Wiring (first pass):** 70 connected wire groups from 139 runs; labelled ends: 254 mm → V4le3, OUTPUTS; 142 mm → POST DIRECT; 69 mm → PAN, INSERT; 63 mm → FB 2; 55 mm → FB, FB 2
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p26 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p26%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p26 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p26%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -301,7 +301,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p26 (tr
 - **Dots (junctions):** 5
 - **Words (OCR):** 135 in 118 lines: LELICTor · Fm · 044407 · 56, · L44iL · Jo Tooji · Bic · 2,2p · 409j[ · 0445m · Siats · Eec
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p27 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p27%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p27 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p27%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -313,7 +313,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p27 (tr
 - **Dots (junctions):** 3
 - **Words (OCR):** 121 in 117 lines: outputs To · Assicn · 7Pia | · R52 · LITT · A40 · ci7 · 670 · Iok · 10/25 · ss/ · Pch
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p28 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p28%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p28 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p28%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -325,7 +325,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p28 (tr
 - **Dots (junctions):** 12
 - **Words (OCR):** 5 in 5 lines: 'Lii-L · SEM · 31 · 344414 · 84
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p29 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p29%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p29 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p29%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -337,7 +337,7 @@ Every curve, box, word and wire group: [1983 - M490K - Line Input Module p29 (tr
 - **Dots (junctions):** 10
 - **Words (OCR):** 17 in 16 lines: SAM · 498449 · aWus · 93 · 49 · COMPQNENT SIDE · 299b2 · WBS · Ir; · Mapok · IR · OReL
 
-Every curve, box, word and wire group: [1983 - M490K - Line Input Module p30 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p30%20(traced).json) (the CAD file: `1983 - M490K - Line Input Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - Line Input Module p30 (traced).json](../MANUALS/1983%20-%20M490K%20-%20Line%20Input%20Module%20p30%20%28traced%29.json) (the CAD file: `1983 - M490K - Line Input Module p30 (traced).dxf`).
 
 ## Full text
 

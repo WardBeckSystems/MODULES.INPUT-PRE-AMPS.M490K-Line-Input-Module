@@ -23,7 +23,7 @@ Wiki page: [M490K](../../../../PAGES/M490K.md)
 - **Words (OCR):** 132 in 126 lines: Ah · c2 · OUTPUtS To · 10 · Assich · Mixing · R52 · LITT · 040 · ci7 · 6t0 · Iok
 - **Wiring (first pass):** 187 connected wire groups from 1,217 runs, 2 dotted junctions; labelled ends: 504 mm → WBS, TR; 301 mm → cri, 4741, 049; 297 mm → CI4, Ris?, 2k3, Riso; 181 mm → ci7, 10/25, R46, R47; 180 mm → ss/
 
-Every curve, box, word and wire group: [1983 - M490K - 490-02-011 - ASSIGH HIZLD SSIIO CZO RCE (traced).json](../SCHEMATICS/1983%20-%20M490K%20-%20490-02-011%20-%20ASSIGH%20HIZLD%20SSIIO%20CZO%20RCE%20(traced).json) (the CAD file: `1983 - M490K - 490-02-011 - ASSIGH HIZLD SSIIO CZO RCE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - 490-02-011 - ASSIGH HIZLD SSIIO CZO RCE (traced).json](../SCHEMATICS/1983%20-%20M490K%20-%20490-02-011%20-%20ASSIGH%20HIZLD%20SSIIO%20CZO%20RCE%20%28traced%29.json) (the CAD file: `1983 - M490K - 490-02-011 - ASSIGH HIZLD SSIIO CZO RCE (traced).dxf`).
 
 ## Full text
 

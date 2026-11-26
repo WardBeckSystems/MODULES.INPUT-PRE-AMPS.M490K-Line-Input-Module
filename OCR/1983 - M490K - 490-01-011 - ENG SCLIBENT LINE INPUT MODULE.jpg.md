@@ -23,7 +23,7 @@ Wiki page: [M490K](../../../../PAGES/M490K.md)
 - **Title block:** (118, 12)–(335, 114) mm: M4e3 ADDED · DIRECT OUTPUTS · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. · BD 83 · Ma9ok · ENG SehuBev · LINE INPUT MODULE · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 490-01-01
 - **Wiring (first pass):** 71 connected wire groups from 132 runs; labelled ends: 254 mm → M4e3, OUTPUTS; 144 mm → POST DIRECT; 63 mm → FB 2; 61 mm → PAN, INSERT; 56 mm → FB, FB 2
 
-Every curve, box, word and wire group: [1983 - M490K - 490-01-011 - ENG SCLIBENT LINE INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490K%20-%20490-01-011%20-%20ENG%20SCLIBENT%20LINE%20INPUT%20MODULE%20(traced).json) (the CAD file: `1983 - M490K - 490-01-011 - ENG SCLIBENT LINE INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490K - 490-01-011 - ENG SCLIBENT LINE INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490K%20-%20490-01-011%20-%20ENG%20SCLIBENT%20LINE%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1983 - M490K - 490-01-011 - ENG SCLIBENT LINE INPUT MODULE (traced).dxf`).
 
 ## Full text
 
