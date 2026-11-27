@@ -1,16 +1,16 @@
-# M490K · Input Pre Amps
+# M490K Line Input Module · Input Pre Amps
 
 Ward-Beck Systems M490K, 1983|16. Wiki page: [M490K on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490K.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 205 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 206 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 34 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -175,16 +175,8 @@ CJ2 4.7 u F/ to V
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVWhFR0szbEE4bU0/view?resourcekey=0-mj2MnpAcSmAIQ2825q1xWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVWhFR0szbEE4bU0&resourcekey=0-mj2MnpAcSmAIQ2825q1xWQ" width="240" alt="1983 - M490K - 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE.jpg"></a><br><sub>1983|16 · 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE · <a href="MECHANICAL/1983%20-%20M490K%20-%20490-04-022%20-%20CHANNEI%20ELONALE%20EIRORKE%20IHE%20APOROORLALE%20POM%20PURE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQkVvNk9NaUtnYWs/view?resourcekey=0-Gb10E8nYeg506UM1PBCVgQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQkVvNk9NaUtnYWs&resourcekey=0-Gb10E8nYeg506UM1PBCVgQ" width="240" alt="1983 - M490K - 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP.jpg"></a><br><sub>1983|16 · 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP · <a href="MECHANICAL/1983%20-%20M490K%20-%20490-04-022%20-%20WAIUR%20THLE%20LICH%20EII%20ALO%20IURN%20CUE%20OFP%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1n4IYRzv2ttWsj_-qGcmytb_fwK4rxAr6/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1n4IYRzv2ttWsj_-qGcmytb_fwK4rxAr6" width="240" alt="19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER.jpg"></a><br><sub>19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVWhFR0szbEE4bU0/view?resourcekey=0-mj2MnpAcSmAIQ2825q1xWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVWhFR0szbEE4bU0&resourcekey=0-mj2MnpAcSmAIQ2825q1xWQ" width="240" alt="1983 - M490K - 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE.jpg"></a><br><sub>1983|16 · 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE · <a href="MECHANICAL/1983%20-%20M490K%20-%20490-04-022%20-%20CHANNEI%20ELONALE%20EIRORKE%20IHE%20APOROORLALE%20POM%20PURE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQkVvNk9NaUtnYWs/view?resourcekey=0-Gb10E8nYeg506UM1PBCVgQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQkVvNk9NaUtnYWs&resourcekey=0-Gb10E8nYeg506UM1PBCVgQ" width="240" alt="1983 - M490K - 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP.jpg"></a><br><sub>1983|16 · 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP · <a href="MECHANICAL/1983%20-%20M490K%20-%20490-04-022%20-%20WAIUR%20THLE%20LICH%20EII%20ALO%20IURN%20CUE%20OFP%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1n4IYRzv2ttWsj_-qGcmytb_fwK4rxAr6/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1n4IYRzv2ttWsj_-qGcmytb_fwK4rxAr6" width="240" alt="19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER.jpg"></a><br><sub>19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER · <a href="MECHANICAL/19xx%20-%20M490K%20-%20DOC%20-%20490-03-033%20-%20SCRATCHES%20LSE%20SELF-CLINCHING%20PEM%20FASTERNER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M490K.stl`](MECHANICAL/M490K.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490K)
-
-- **Size:** 50.3 × 416.69 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 12 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490K - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M490K.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -260,6 +252,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1983 - M490K - Line Input Module (2) p26.kicad_sch](KICAD/1983%20-%20M490K%20-%20Line%20Input%20Module%20(2)%20p26.kicad_sch)
 - [1983 - M490K - Line Input Module p26.kicad_sch](KICAD/1983%20-%20M490K%20-%20Line%20Input%20Module%20p26.kicad_sch)
 - [M490K.kicad_sym](KICAD/M490K.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
