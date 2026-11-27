@@ -1,0 +1,80 @@
+{
+ "module": "M490K",
+ "title": "M490K LINE INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1983 - M490K - Line Input Module (2).pdf",
+  "page": 3
+ },
+ "ocr_quality": 0.73,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Sourc",
+   "key": "sourc",
+   "text": "e Impedance: 600 ohms, ba lanced/unbal an ced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Output impedances",
+     "text": "30,000 oh m\", balanced (Pr\"O!ilr am cin;u ll \"). 60,000 oh m\", balanced leue ci n;u il s). 1,000 ohm\", balanced (po SI di r ecl).",
+     "quantities": [
+      {
+       "value": 1000,
+       "unit": "ohm"
+      }
+     ],
+     "key": "output_impedance"
+    },
+    {
+     "name": "Output level",
+     "text": "o dBm nominal, +24 dBm ma\" imum. (eq u iva lent vol lage 600 ohm,,).",
+     "quantities": [
+      {
+       "value": 24,
+       "unit": "dBm"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      }
+     ],
+     "key": "output_level"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and o u tp u l te,.mln al s de signaled by numbers a,.e in phase, Q\" low e\" number of numb er-e d p a i,. Is in phase wll h lower numbe\" of Olh e,. numbe,.ed pair."
+  },
+  {
+   "name": "Logic",
+   "key": "logic",
+   "text": "Input Level,,: t re <>pe,.ale CH ON, CH OFF I;, CUE).",
+   "items": [
+    {
+     "name": "Logic",
+     "text": "0: 0 10 +13 vol l\".",
+     "quantities": [],
+     "key": "logic"
+    },
+    {
+     "name": "Logic",
+     "text": "1: +16 10 +24 vens,",
+     "quantities": [],
+     "key": "logic"
+    }
+   ]
+  }
+ ]
+}
