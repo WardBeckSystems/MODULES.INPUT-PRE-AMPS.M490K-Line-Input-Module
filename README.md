@@ -4,13 +4,11 @@ Ward-Beck Systems M490K, 1983|16. Wiki page: [M490K on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 206 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 205 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 34 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -178,6 +176,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVWhFR0szbEE4bU0/view?resourcekey=0-mj2MnpAcSmAIQ2825q1xWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVWhFR0szbEE4bU0&resourcekey=0-mj2MnpAcSmAIQ2825q1xWQ" width="240" alt="1983 - M490K - 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE.jpg"></a><br><sub>1983|16 · 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE · <a href="MECHANICAL/1983%20-%20M490K%20-%20490-04-022%20-%20CHANNEI%20ELONALE%20EIRORKE%20IHE%20APOROORLALE%20POM%20PURE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQkVvNk9NaUtnYWs/view?resourcekey=0-Gb10E8nYeg506UM1PBCVgQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQkVvNk9NaUtnYWs&resourcekey=0-Gb10E8nYeg506UM1PBCVgQ" width="240" alt="1983 - M490K - 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP.jpg"></a><br><sub>1983|16 · 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP · <a href="MECHANICAL/1983%20-%20M490K%20-%20490-04-022%20-%20WAIUR%20THLE%20LICH%20EII%20ALO%20IURN%20CUE%20OFP%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1n4IYRzv2ttWsj_-qGcmytb_fwK4rxAr6/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1n4IYRzv2ttWsj_-qGcmytb_fwK4rxAr6" width="240" alt="19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER.jpg"></a><br><sub>19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER · <a href="MECHANICAL/19xx%20-%20M490K%20-%20DOC%20-%20490-03-033%20-%20SCRATCHES%20LSE%20SELF-CLINCHING%20PEM%20FASTERNER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M490K.stl`](MECHANICAL/M490K.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490K)
+
+- **Size:** 50.3 × 416.69 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 12 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490K - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490K.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -190,8 +196,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M490K - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -239,8 +243,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd0F0WXkwYXk4REE/view?resourcekey=0-JVSYK4Y_JF2LhQvjxOAs5g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd0F0WXkwYXk4REE&resourcekey=0-JVSYK4Y_JF2LhQvjxOAs5g" width="240" alt="1983 - M490K - P020 - CD4016.jpg"></a><br><sub>1983|16 · P020 - CD4016</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2xtemRnNGdWVFk/view?resourcekey=0-6_FAhExcbRSEW8ysscGMYQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2xtemRnNGdWVFk&resourcekey=0-6_FAhExcbRSEW8ysscGMYQ" width="240" alt="1983 - M490K - P021 - 74C76.jpg"></a><br><sub>1983|16 · P021 - 74C76</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbi1aZTF1TUdOY0E/view?resourcekey=0-kRjVCzauA_CQ0FkoHkDfyA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbi1aZTF1TUdOY0E&resourcekey=0-kRjVCzauA_CQ0FkoHkDfyA" width="240" alt="1983 - M490K - P022 - 74C221.jpg"></a><br><sub>1983|16 · P022 - 74C221</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M490K - P002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -252,7 +254,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1983 - M490K - Line Input Module (2) p26.kicad_sch](KICAD/1983%20-%20M490K%20-%20Line%20Input%20Module%20(2)%20p26.kicad_sch)
 - [1983 - M490K - Line Input Module p26.kicad_sch](KICAD/1983%20-%20M490K%20-%20Line%20Input%20Module%20p26.kicad_sch)
 - [M490K.kicad_sym](KICAD/M490K.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
