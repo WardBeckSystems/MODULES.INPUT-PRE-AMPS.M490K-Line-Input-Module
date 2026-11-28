@@ -1,5 +1,5 @@
 # 1983 - M490K - 490-01-011 - ENG SCLIBENT LINE INPUT MODULE.jpg
-Wiki page: [M490K](../../../../PAGES/M490K.md)
+Wiki page: [M490K](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

@@ -1,5 +1,5 @@
 # 1983 - M490K - 490-01-011 - OFF ONISTART TIMER RESET OFF TALLY OFF STOP.jpg
-Wiki page: [M490K](../../../../PAGES/M490K.md)
+Wiki page: [M490K](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

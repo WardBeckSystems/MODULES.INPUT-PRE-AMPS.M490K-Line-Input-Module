@@ -1,5 +1,5 @@
 # 1983 - M490K - Line Input Module (2).pdf
-Wiki page: [M490K](../../../../PAGES/M490K.md)
+Wiki page: [M490K](../)
 
 
 - **Year:** 1983 (found in this file: "ISSUE 111 W :// DECEMBER 1983")

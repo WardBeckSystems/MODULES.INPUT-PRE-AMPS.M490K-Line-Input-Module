@@ -1,5 +1,5 @@
 # 1983 - M490K - 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP.jpg
-Wiki page: [M490K](../../../../PAGES/M490K.md)
+Wiki page: [M490K](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))
